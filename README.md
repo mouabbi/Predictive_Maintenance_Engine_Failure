@@ -83,7 +83,7 @@ Ce dépôt présente des approches avancées de **maintenance prédictive** appl
 
 
   🔗 **Contactez-moi :**  
-[📧 Votre Email](mailto:mohamedouabbi7@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/mahamed-ouabbi/)  
+[📧  Email](mailto:mohamedouabbi7@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/mahamed-ouabbi/)  
 
 ✨ **Prédire aujourd'hui pour un avenir plus sûr !**  
 

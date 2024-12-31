@@ -4,7 +4,7 @@ Ce dépôt présente des approches avancées de **maintenance prédictive** appl
 
 ---
 ## 📊 **Données utilisées**
-- Données issues des moteurs à turbofan (provenant de jeux de données publics comme C-MAPSS de la NASA).
+- Données issues des moteurs à turbofan (provenant de jeux de données publics comme **C-MAPSS** de la NASA).
 
 ---
 
